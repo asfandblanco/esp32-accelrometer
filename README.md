@@ -4,7 +4,7 @@ This is a simple code that uses the ESP32 and an accelerometer to turn on a ligh
 https://github.com/user-attachments/assets/3178f826-31a0-4563-8b6d-f23baa930d0e
 
 # PinOut
-The pins that you have to connect are L**EDs are: X axis: 4, 17 and Y axis: 5, 16.**
+The pins that you have to connect are **LEDs are: X axis: 4, 17 and Y axis: 5, 16.**
 Then the **accelerometer pins are GPIO21 and GPIO22 (pin 21 is SDA and 22 is SCL).**
 Here you can see the pins of the ESP32 DEV, some may vary...
 
